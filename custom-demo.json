@@ -8,8 +8,8 @@
 	  "handSize": 11,
 	  "color": "#ffffff",
 	  "spoiler": false,
-      "iconUrl": "https://lurkars.github.io/ghs-custom-demo/champonthis.svg",
-      "thumbnailUrl": "https://lurkars.github.io/ghs-custom-demo/champonthis.png",
+ 	"iconUrl": "https://github.com/Anemone1777/custom_test/disjoint.svg",
+	"thumbnailUrl": "https://github.com/Anemone1777/custom_test/disjoint.png",
       "stats": [
         {
           "level": 1,
@@ -52,7 +52,7 @@
     {
       "name": "Fragment",
       "thumbnail": true,
-	  "thumbnailUrl": "https://lurkars.github.io/ghs-custom-demo/copycat.svg"
+	  "thumbnailUrl": "https://github.com/Anemone1777/custom_test/fragment.png"
       "level": 1,
       "health": 1,
       "attack": 0,
@@ -67,8 +67,8 @@
 	  "handSize": 12,
 	  "color": "#ffffff",
 	  "spoiler": false,
-      "iconUrl": "https://lurkars.github.io/ghs-custom-demo/champonthis.svg",
-      "thumbnailUrl": "https://lurkars.github.io/ghs-custom-demo/champonthis.png",
+      "iconUrl": "https://github.com/Anemone1777/custom_test/ancient.svg",
+      "thumbnailUrl": "https://github.com/Anemone1777/custom_test/ancient.png",
         "stats": [
 			{
 			  "level": 1,
