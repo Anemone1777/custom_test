@@ -6,8 +6,8 @@
       "characterClass": "lurker",
       "edition": "custom",
 	  "color": "#5bd4fc",
-      "iconUrl": "https://anemone1777.github.io/ancient_icon.png",
-      "thumbnailUrl": "https://anemone1777.github.io/ancient.png",
+      "iconUrl": "https://anemone1777.github.io/custom_test/ancient_icon.png",
+      "thumbnailUrl": "https://anemone1777.github.io/custom_test/ancient.png",
         "stats": [
 			{
 			  "level": 1,
@@ -52,8 +52,8 @@
       "characterClass": "aesther",
       "edition": "custom",
 	  "color": "#e9258e",
-      "iconUrl": "https://anemone1777.github.io/disjoint_icon.png",
-      "thumbnailUrl": "https://anemone1777.github.io/disjoint.png",
+      "iconUrl": "https://anemone1777.github.io/custom_test/disjoint_icon.png",
+      "thumbnailUrl": "https://anemone1777.github.io/custom_test/disjoint.png",
       "stats": [
         {
           "level": 1,
@@ -96,7 +96,7 @@
 		{
 		  "name": "fragment",
 		  "thumbnail": true,
-		  "thumbnailUrl": "https://anemone1777.github.io/fragment.png",
+		  "thumbnailUrl": "https://anemone1777.github.io/custom_test/fragment.png",
 		  "level": 1,
 		  "health": 1,
 		  "movement": 3,
